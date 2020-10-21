@@ -1,0 +1,64 @@
+body, html {
+    height: 100%;
+    background: #454a4f;;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.623)), url(gca/gcabackground.png);
+
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.topnav {
+    color: black;
+    overflow: hidden;
+    border-bottom: 1px transparent black;
+    padding-right: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.topnav a:hover {
+    background-color: transparent;
+    color: black;
+    border-bottom: 3px solid black;
+  }
+  
+.topnav a.active {
+    background-color: transparent;
+    color: black;
+    border-bottom: 3px solid black;
+  }
+
+.enligne {
+    width: 220px;
+    height: 120px;
+    border: 10px solid 	#454a4f;
+    background-color: #ff5858;
+    position: 100px 200px;
+    font-family: Arial;
+
+}
