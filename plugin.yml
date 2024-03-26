@@ -1,0 +1,43 @@
+name: GCAPlugin
+version: 2.0.1
+author: Pierronus
+api-version: 1.9
+main: fr.pierronus.gcaplugin.Main
+commands:
+  police:
+    description: Give des items de police
+  telephone:
+    description: tel
+  lbanqueezd:
+    description: banque
+  grade:
+    description: menu grades
+  adpkkdlslp:
+    description: permis armes
+  ffkefeeksk:
+    description: permis voiture
+  gilet:
+    description: gilet
+  tuto:
+    description: tutoriel
+  brs:
+    description: bourse
+  guide:
+    description: guide
+  fi:
+    description: fr
+  sdfsdfsdfre:
+    description: bucheron
+  sefzgztzytzafe:
+    description: fermier
+  zfvzaefzefezaf:
+    description: pecheur
+  rezghetheth:
+    description: mineur
+  points:
+    description: voir menu points
+  eeao:
+    description: eeao
+  appart:
+    description: automatisation creation
+  
